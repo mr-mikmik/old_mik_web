@@ -11,9 +11,10 @@
 		                    {% endfor %}
                         </p>
                     </div> -->
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
+                    <!-- <div class="footer-col col-md-6"> -->
+                    <div class="footer-col">
+                      <h3>{{ site.footer.social }}</h3>
+                      <ul class="list-inline">
                           <li>
                               <a href="https://scholar.google.com/citations?user=N8LKz0kAAAAJ&hl=ca" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"><img src=img/scholar_logo_2.png/></i></a>
                           </li>
@@ -23,12 +24,13 @@
                             </li>
 		                    {% endfor %}
 
-                        </ul>
+                      </ul>
                     </div>
-                    <div class="footer-col col-md-4">
-                        <h5>{{ site.footer.credits }}</h5>
-                        <p style="font-size:80%;">{{ site.credits }}</p>
-                    </div>
+
+                </div>
+                <div class="footer-col">
+                    <h5>{{ site.footer.credits }}</h5>
+                    <p style="font-size:80%;">{{ site.credits }}</p>
                 </div>
             </div>
         </div>
