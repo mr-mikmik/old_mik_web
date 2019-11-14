@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-30
+curiosity_name: Sailing Curiosity
+img: vela.png
+alt: image-alt
+description: Although growing up in a town with no sea, one of my favourite activities is sailing.
+---

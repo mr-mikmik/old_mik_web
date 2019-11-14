@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+date: 2019-01-30
+curiosity_name: Moia Curiosity
+img: moia.jpg
+alt: image-alt
+description: I grew up in the town with the world's best goat cheese.
+---

@@ -7,6 +7,12 @@ keywords: "Miquel Oller, robotics, jenga"
 skills: "Roboticist - Learning Enthusiastic "
 meta_author: Oller Miquel
 
+# # Collection for Curiosities
+collections:
+  curiosities:
+    output: true
+    permalink: :slug/
+
 # Google webmaster tools
 google_verify:
 
@@ -65,4 +71,5 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+# permalink: pretty
+permalink: :slug/

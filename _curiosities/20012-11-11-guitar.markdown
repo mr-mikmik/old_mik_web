@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2019-01-30
+curiosity_name: Guitar Curiosity
+img: guitarra.jpg
+alt: image-alt
+description: When I was 5 I started playing the classical guitar. Since 2009 I also play the electric one. The artists who influenced me the most are Eric Clapton, B.B. King, Carlos Santana, Ferran Sor, and Francisco Tàrrega.
+---

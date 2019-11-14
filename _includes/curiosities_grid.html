@@ -1,0 +1,26 @@
+
+    <!-- Curiosities Grid Section -->
+    <section class="success" id="curiosities">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Curiosities</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                {% for cur in site.curiosities %}
+                    <div class="col-sm-3 portfolio-item">
+                        <a href="#curiosityModal-{{ cur.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/curs/{{ cur.img }}" class="img-responsive" alt="{{ cur.alt }}">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
