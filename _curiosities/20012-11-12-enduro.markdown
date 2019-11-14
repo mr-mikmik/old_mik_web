@@ -5,5 +5,5 @@ date: 2019-01-30
 curiosity_name: Enduro Curiosity
 img: moto.jpg
 alt: image-alt
-description: On my free time, I enjoy some enduro on my home town woods.
+description: On my free time, I enjoy some enduro through my home town woods.
 ---
