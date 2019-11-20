@@ -8,6 +8,5 @@ alt: image-alt
 project-date: Ongoing
 # publication: Science Robotics
 #publication_url: https://jiajunwu.com/papers/jenga_scirobot.pdf
-description: Learning complex manipulation skills.  
-
+description: Learn spatio-temporal abstractions that enable efficient learning of complex manipulation skills. Abstractions characterize different dynamical modes. Defining an option for each abstraction, we learn a hierarchical policy that adapts to different dynamical modes.
 ---
