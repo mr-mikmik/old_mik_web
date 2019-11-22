@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2019-01-30
 project_name: Topic Hierarchical Reinforcement Learning
 img: insertion_demo.png
