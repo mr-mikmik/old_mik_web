@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-11-25T18:34:38+01:00</updated>
+  <updated>2019-11-25T19:13:32+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Topic Project</title>
-      <link href="http://localhost:4000/topic-project/" rel="alternate" type="text/html" title="Topic Project" />
+      <title type="html">Jenga Project</title>
+      <link href="http://localhost:4000/jenga-project/" rel="alternate" type="text/html" title="Jenga Project" />
       <published>2019-01-30T00:00:00+01:00</published>
       <updated>2019-01-30T00:00:00+01:00</updated>
-      <id>http://localhost:4000/topic-project</id>
-      <content type="html" xml:base="http://localhost:4000/topic-project/"></content>
+      <id>http://localhost:4000/jenga-project</id>
+      <content type="html" xml:base="http://localhost:4000/jenga-project/"></content>
 
       
       
@@ -52,12 +52,12 @@
     </entry>
   
     <entry>
-      <title type="html">Jenga Project</title>
-      <link href="http://localhost:4000/jenga-project/" rel="alternate" type="text/html" title="Jenga Project" />
+      <title type="html">Topic Project</title>
+      <link href="http://localhost:4000/topic-project/" rel="alternate" type="text/html" title="Topic Project" />
       <published>2019-01-30T00:00:00+01:00</published>
       <updated>2019-01-30T00:00:00+01:00</updated>
-      <id>http://localhost:4000/jenga-project</id>
-      <content type="html" xml:base="http://localhost:4000/jenga-project/"></content>
+      <id>http://localhost:4000/topic-project</id>
+      <content type="html" xml:base="http://localhost:4000/topic-project/"></content>
 
       
       
