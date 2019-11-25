@@ -56,7 +56,9 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: var(--icon_id);
+    /* content: "\f001"; */
+    /* content: "\f005"; */
     display: inline-block;
     position: relative;
     top: -.8em;
