@@ -4,6 +4,7 @@ modal-id: 2
 date: 2019-01-30
 project_name: Topic Hierarchical Reinforcement Learning
 img: insertion_demo.png
+img_inside: insertion_demo.png
 alt: image-alt
 project-date: Ongoing
 # publication: Science Robotics

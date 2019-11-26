@@ -4,6 +4,7 @@ modal-id: 1
 date: 2019-01-30
 project_name: Jenga Project
 img: jenga_cover_background.png
+img_inside: jenga_cover_background.png
 alt: image-alt
 project-date: January 2019
 publication: Science Robotics

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-30
+project_name: TDSF ROS Wrapper
+img: tote_outside.png
+img_inside: tote_slowest.gif
+alt: image-alt
+# publication: Science Robotics
+#publication_url: https://jiajunwu.com/papers/jenga_scirobot.pdf
+description: Creating a ROS RGBD scene reconstruction wrapper for Intel® RealSense™ Depth Camera D400 Series based on <a href='https://github.com/andyzeng/tsdf-fusion-python-old'>TSDF</a> and <a href='https://april.eecs.umich.edu/software/apriltag'>AprilTags</a>. 
+---
