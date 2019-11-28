@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-11-27T12:09:35+01:00</updated>
+  <updated>2019-11-28T20:05:11+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -90,6 +90,38 @@
       <updated>2019-01-30T00:00:00+01:00</updated>
       <id>http://localhost:4000/phrasegrounding</id>
       <content type="html" xml:base="http://localhost:4000/phrasegrounding/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Antena Satellite</title>
+      <link href="http://localhost:4000/antena-satellite/" rel="alternate" type="text/html" title="Antena Satellite" />
+      <published>2019-01-30T00:00:00+01:00</published>
+      <updated>2019-01-30T00:00:00+01:00</updated>
+      <id>http://localhost:4000/antena-satellite</id>
+      <content type="html" xml:base="http://localhost:4000/antena-satellite/"></content>
 
       
       
